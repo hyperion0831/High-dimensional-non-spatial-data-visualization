@@ -1,0 +1,3642 @@
+[
+    {
+        "id": 207350081,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9469396,
+        "time_meas": 168134
+    },
+    {
+        "id": 211692397,
+        "is_moving": 1,
+        "velocity": 7.997207,
+        "type": 1,
+        "heading": -0.43155232,
+        "time_meas": 168134
+    },
+    {
+        "id": 204034842,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.55805796,
+        "time_meas": 168134
+    },
+    {
+        "id": 195685369,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1880891,
+        "time_meas": 168134
+    },
+    {
+        "id": 209236395,
+        "is_moving": 1,
+        "velocity": 1.0671083,
+        "type": 2,
+        "heading": -0.5434113,
+        "time_meas": 168134
+    },
+    {
+        "id": 209618194,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.41402566,
+        "time_meas": 168134
+    },
+    {
+        "id": 207505289,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.6003718,
+        "time_meas": 168134
+    },
+    {
+        "id": 207730011,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5332723,
+        "time_meas": 168134
+    },
+    {
+        "id": 207887184,
+        "is_moving": 1,
+        "velocity": 3.769116,
+        "type": 3,
+        "heading": -0.22892027,
+        "time_meas": 168134
+    },
+    {
+        "id": 210764125,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.1261697,
+        "time_meas": 168134
+    },
+    {
+        "id": 203881904,
+        "is_moving": 1,
+        "velocity": 1.5132576,
+        "type": 2,
+        "heading": -0.3914791,
+        "time_meas": 168134
+    },
+    {
+        "id": 204128089,
+        "is_moving": 1,
+        "velocity": 9.07777,
+        "type": 1,
+        "heading": -1.8959959,
+        "time_meas": 168134
+    },
+    {
+        "id": 35452496,
+        "is_moving": 0,
+        "velocity": 9.591011,
+        "type": -1,
+        "heading": -0.48065743,
+        "time_meas": 168134
+    },
+    {
+        "id": 203955931,
+        "is_moving": 1,
+        "velocity": 3.4528928,
+        "type": 3,
+        "heading": 0.4870284,
+        "time_meas": 168134
+    },
+    {
+        "id": 205403218,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -2.2478354,
+        "time_meas": 168134
+    },
+    {
+        "id": 206566549,
+        "is_moving": 1,
+        "velocity": 8.311512,
+        "type": 1,
+        "heading": 2.5578082,
+        "time_meas": 168134
+    },
+    {
+        "id": 206482575,
+        "is_moving": 1,
+        "velocity": 6.230973,
+        "type": 3,
+        "heading": -0.32777464,
+        "time_meas": 168134
+    },
+    {
+        "id": 18629477,
+        "is_moving": 0,
+        "velocity": 0.042972635,
+        "type": -1,
+        "heading": 1.1762395,
+        "time_meas": 168134
+    },
+    {
+        "id": 202847840,
+        "is_moving": 1,
+        "velocity": 1.1663358,
+        "type": 2,
+        "heading": 2.567504,
+        "time_meas": 168134
+    },
+    {
+        "id": 207550546,
+        "is_moving": 1,
+        "velocity": 9.948924,
+        "type": 1,
+        "heading": 2.5733204,
+        "time_meas": 168134
+    },
+    {
+        "id": 202966407,
+        "is_moving": 1,
+        "velocity": 2.5226538,
+        "type": 3,
+        "heading": 2.6991336,
+        "time_meas": 168134
+    },
+    {
+        "id": 204973918,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 10,
+        "heading": 1.0855441,
+        "time_meas": 168134
+    },
+    {
+        "id": 970247,
+        "is_moving": 0,
+        "velocity": 6.6738462,
+        "type": -1,
+        "heading": -0.4739967,
+        "time_meas": 168134
+    },
+    {
+        "id": 206355947,
+        "is_moving": 1,
+        "velocity": 8.363857,
+        "type": 3,
+        "heading": -0.3168483,
+        "time_meas": 168134
+    },
+    {
+        "id": 203953351,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.54611087,
+        "time_meas": 168134
+    },
+    {
+        "id": 210879071,
+        "is_moving": 1,
+        "velocity": 10.352254,
+        "type": 1,
+        "heading": -0.55857205,
+        "time_meas": 168134
+    },
+    {
+        "id": 205288365,
+        "is_moving": 1,
+        "velocity": 4.4595647,
+        "type": 3,
+        "heading": 2.505128,
+        "time_meas": 168134
+    },
+    {
+        "id": 208466351,
+        "is_moving": 1,
+        "velocity": 1.4454327,
+        "type": 2,
+        "heading": 0.83482003,
+        "time_meas": 168134
+    },
+    {
+        "id": 205620124,
+        "is_moving": 1,
+        "velocity": 1.6545258,
+        "type": 2,
+        "heading": 2.5666866,
+        "time_meas": 168134
+    },
+    {
+        "id": 206385233,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": -3.1019516,
+        "time_meas": 168134
+    },
+    {
+        "id": 205419638,
+        "is_moving": 1,
+        "velocity": 7.332519,
+        "type": 1,
+        "heading": 2.5982378,
+        "time_meas": 168134
+    },
+    {
+        "id": 206296538,
+        "is_moving": 1,
+        "velocity": 5.1766205,
+        "type": 1,
+        "heading": 2.5348759,
+        "time_meas": 168134
+    },
+    {
+        "id": 208949130,
+        "is_moving": 1,
+        "velocity": 5.221031,
+        "type": 1,
+        "heading": -0.11480176,
+        "time_meas": 168134
+    },
+    {
+        "id": 202465862,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5537305,
+        "time_meas": 168134
+    },
+    {
+        "id": 211317407,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.56217617,
+        "time_meas": 168134
+    },
+    {
+        "id": 18643358,
+        "is_moving": 0,
+        "velocity": 1.1922688,
+        "type": -1,
+        "heading": -2.6994963,
+        "time_meas": 168134
+    },
+    {
+        "id": 206156863,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.218665,
+        "time_meas": 168134
+    },
+    {
+        "id": 209373223,
+        "is_moving": 1,
+        "velocity": 5.863464,
+        "type": 3,
+        "heading": -0.5620373,
+        "time_meas": 168134
+    },
+    {
+        "id": 207787464,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.42141074,
+        "time_meas": 168134
+    },
+    {
+        "id": 203598921,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.0109398,
+        "time_meas": 168134
+    },
+    {
+        "id": 208485902,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.0157795,
+        "time_meas": 168134
+    },
+    {
+        "id": 211051064,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 1.5244393,
+        "time_meas": 168134
+    },
+    {
+        "id": 205771,
+        "is_moving": 0,
+        "velocity": 0.016287034,
+        "type": -1,
+        "heading": 0.69892585,
+        "time_meas": 168134
+    },
+    {
+        "id": 204185858,
+        "is_moving": 1,
+        "velocity": 1.6094627,
+        "type": 2,
+        "heading": 2.7898571,
+        "time_meas": 168134
+    },
+    {
+        "id": 204817600,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 1.5707963,
+        "time_meas": 168134
+    },
+    {
+        "id": 211641206,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": 2.6245353,
+        "time_meas": 168134
+    },
+    {
+        "id": 208932587,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": -0.58541906,
+        "time_meas": 168134
+    },
+    {
+        "id": 207884244,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -4.110964e-9,
+        "time_meas": 168134
+    },
+    {
+        "id": 940777,
+        "is_moving": 0,
+        "velocity": 4.574464,
+        "type": -1,
+        "heading": -0.43622094,
+        "time_meas": 168134
+    },
+    {
+        "id": 191253125,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.137153,
+        "time_meas": 168134
+    },
+    {
+        "id": 202577041,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.005987,
+        "time_meas": 168134
+    },
+    {
+        "id": 205815661,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5830449,
+        "time_meas": 168134
+    },
+    {
+        "id": 204885762,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -1.4567177,
+        "time_meas": 168134
+    },
+    {
+        "id": 202290902,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9568216,
+        "time_meas": 168134
+    },
+    {
+        "id": 204211510,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.8835747,
+        "time_meas": 168134
+    },
+    {
+        "id": 211488054,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.605749,
+        "time_meas": 168134
+    },
+    {
+        "id": 207609089,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": 1.027311,
+        "time_meas": 168134
+    },
+    {
+        "id": 207627954,
+        "is_moving": 1,
+        "velocity": 6.7139254,
+        "type": 1,
+        "heading": -1.2463068,
+        "time_meas": 168134
+    },
+    {
+        "id": 209143615,
+        "is_moving": 1,
+        "velocity": 2.835619,
+        "type": 1,
+        "heading": -0.36793202,
+        "time_meas": 168134
+    },
+    {
+        "id": 207832677,
+        "is_moving": 1,
+        "velocity": 8.853978,
+        "type": 3,
+        "heading": -0.5420673,
+        "time_meas": 168134
+    },
+    {
+        "id": 205549009,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.58420646,
+        "time_meas": 168134
+    },
+    {
+        "id": 190696992,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.8846524,
+        "time_meas": 168134
+    },
+    {
+        "id": 203134135,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 0.9563279,
+        "time_meas": 168134
+    },
+    {
+        "id": 203715552,
+        "is_moving": 1,
+        "velocity": 12.216257,
+        "type": 1,
+        "heading": -2.0650103,
+        "time_meas": 168134
+    },
+    {
+        "id": 209917431,
+        "is_moving": 1,
+        "velocity": 5.6694574,
+        "type": 1,
+        "heading": -1.4282538,
+        "time_meas": 168134
+    },
+    {
+        "id": 203330212,
+        "is_moving": 1,
+        "velocity": 12.017503,
+        "type": 1,
+        "heading": -0.5576913,
+        "time_meas": 168134
+    },
+    {
+        "id": 210685949,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1807258,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252741,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.137153,
+        "time_meas": 168134
+    },
+    {
+        "id": 204734920,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.4406056,
+        "time_meas": 168134
+    },
+    {
+        "id": 211690225,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": 2.7022004,
+        "time_meas": 168134
+    },
+    {
+        "id": 191800960,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.137153,
+        "time_meas": 168134
+    },
+    {
+        "id": 204734817,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 4,
+        "heading": -1.3278462,
+        "time_meas": 168134
+    },
+    {
+        "id": 211768114,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.1344776,
+        "time_meas": 168134
+    },
+    {
+        "id": 210445192,
+        "is_moving": 1,
+        "velocity": 5.9249296,
+        "type": 1,
+        "heading": -0.4004517,
+        "time_meas": 168134
+    },
+    {
+        "id": 204000947,
+        "is_moving": 1,
+        "velocity": 9.961547,
+        "type": 3,
+        "heading": 2.7542844,
+        "time_meas": 168134
+    },
+    {
+        "id": 205612026,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.35142115,
+        "time_meas": 168134
+    },
+    {
+        "id": 207435537,
+        "is_moving": 1,
+        "velocity": 5.2732806,
+        "type": 1,
+        "heading": -1.9116669,
+        "time_meas": 168134
+    },
+    {
+        "id": 209746407,
+        "is_moving": 1,
+        "velocity": 0.7589071,
+        "type": 1,
+        "heading": 2.7693932,
+        "time_meas": 168134
+    },
+    {
+        "id": 202746847,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.002199,
+        "time_meas": 168134
+    },
+    {
+        "id": 209407136,
+        "is_moving": 1,
+        "velocity": 10.644062,
+        "type": 1,
+        "heading": 1.3011497,
+        "time_meas": 168134
+    },
+    {
+        "id": 208177947,
+        "is_moving": 1,
+        "velocity": 2.3413215,
+        "type": 1,
+        "heading": 1.1155437,
+        "time_meas": 168134
+    },
+    {
+        "id": 206496348,
+        "is_moving": 1,
+        "velocity": 4.8588424,
+        "type": 3,
+        "heading": 2.5383308,
+        "time_meas": 168134
+    },
+    {
+        "id": 208721259,
+        "is_moving": 1,
+        "velocity": 5.21048,
+        "type": 1,
+        "heading": 2.5626328,
+        "time_meas": 168134
+    },
+    {
+        "id": 207459208,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": 1.0476204,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252719,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.137153,
+        "time_meas": 168134
+    },
+    {
+        "id": 203873891,
+        "is_moving": 1,
+        "velocity": 1.1004574,
+        "type": 1,
+        "heading": -0.38431004,
+        "time_meas": 168134
+    },
+    {
+        "id": 204852807,
+        "is_moving": 1,
+        "velocity": 6.1198177,
+        "type": 1,
+        "heading": -2.4544418,
+        "time_meas": 168134
+    },
+    {
+        "id": 207824192,
+        "is_moving": 1,
+        "velocity": 4.2979484,
+        "type": 1,
+        "heading": 1.5821455,
+        "time_meas": 168134
+    },
+    {
+        "id": 204034663,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5634644,
+        "time_meas": 168134
+    },
+    {
+        "id": 209151821,
+        "is_moving": 1,
+        "velocity": 11.785766,
+        "type": 1,
+        "heading": -0.6240836,
+        "time_meas": 168134
+    },
+    {
+        "id": 210990272,
+        "is_moving": 1,
+        "velocity": 4.5014863,
+        "type": 3,
+        "heading": 2.7404413,
+        "time_meas": 168134
+    },
+    {
+        "id": 209653168,
+        "is_moving": 1,
+        "velocity": 3.1011136,
+        "type": 3,
+        "heading": 0.42156777,
+        "time_meas": 168134
+    },
+    {
+        "id": 211108398,
+        "is_moving": 1,
+        "velocity": 1.6072121,
+        "type": 2,
+        "heading": 1.0786554,
+        "time_meas": 168134
+    },
+    {
+        "id": 205992369,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -0.7884987,
+        "time_meas": 168134
+    },
+    {
+        "id": 203565940,
+        "is_moving": 1,
+        "velocity": 7.6360826,
+        "type": 3,
+        "heading": -0.55669516,
+        "time_meas": 168134
+    },
+    {
+        "id": 203530015,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": -0.0000012651548,
+        "time_meas": 168134
+    },
+    {
+        "id": 206184178,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.37124315,
+        "time_meas": 168134
+    },
+    {
+        "id": 205094977,
+        "is_moving": 1,
+        "velocity": 10.581643,
+        "type": 1,
+        "heading": -2.0001364,
+        "time_meas": 168134
+    },
+    {
+        "id": 203458824,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.40238836,
+        "time_meas": 168134
+    },
+    {
+        "id": 210524428,
+        "is_moving": 1,
+        "velocity": 5.415801,
+        "type": 1,
+        "heading": -0.66696286,
+        "time_meas": 168134
+    },
+    {
+        "id": 208076971,
+        "is_moving": 1,
+        "velocity": 2.8829994,
+        "type": 1,
+        "heading": -1.5656275,
+        "time_meas": 168134
+    },
+    {
+        "id": 203677418,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9805843,
+        "time_meas": 168134
+    },
+    {
+        "id": 210379311,
+        "is_moving": 1,
+        "velocity": 10.075504,
+        "type": 1,
+        "heading": 2.7475019,
+        "time_meas": 168134
+    },
+    {
+        "id": 191253484,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.151292,
+        "time_meas": 168134
+    },
+    {
+        "id": 203062248,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.0032382,
+        "time_meas": 168134
+    },
+    {
+        "id": 209162113,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.597523,
+        "time_meas": 168134
+    },
+    {
+        "id": 204024648,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.345242,
+        "time_meas": 168134
+    },
+    {
+        "id": 207968010,
+        "is_moving": 1,
+        "velocity": 8.1614895,
+        "type": 3,
+        "heading": -0.37762395,
+        "time_meas": 168134
+    },
+    {
+        "id": 206242704,
+        "is_moving": 1,
+        "velocity": 1.438453,
+        "type": 1,
+        "heading": -0.59731084,
+        "time_meas": 168134
+    },
+    {
+        "id": 209448610,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.6110632,
+        "time_meas": 168134
+    },
+    {
+        "id": 205918508,
+        "is_moving": 1,
+        "velocity": 9.119437,
+        "type": 3,
+        "heading": -0.48890233,
+        "time_meas": 168134
+    },
+    {
+        "id": 18616825,
+        "is_moving": 0,
+        "velocity": 0.16100232,
+        "type": -1,
+        "heading": -0.015768273,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252716,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.002199,
+        "time_meas": 168134
+    },
+    {
+        "id": 205552638,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.47422555,
+        "time_meas": 168134
+    },
+    {
+        "id": 205467398,
+        "is_moving": 1,
+        "velocity": 4.1255007,
+        "type": 3,
+        "heading": 1.639289,
+        "time_meas": 168134
+    },
+    {
+        "id": 203746511,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.0032382,
+        "time_meas": 168134
+    },
+    {
+        "id": 202897797,
+        "is_moving": 1,
+        "velocity": 4.5556498,
+        "type": 1,
+        "heading": -0.43259236,
+        "time_meas": 168134
+    },
+    {
+        "id": 88558532,
+        "is_moving": 0,
+        "velocity": 0.7690445,
+        "type": -1,
+        "heading": -1.7257016,
+        "time_meas": 168134
+    },
+    {
+        "id": 205583386,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0,
+        "time_meas": 168134
+    },
+    {
+        "id": 209245566,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0,
+        "time_meas": 168134
+    },
+    {
+        "id": 205592892,
+        "is_moving": 1,
+        "velocity": 11.871896,
+        "type": 1,
+        "heading": 2.5474465,
+        "time_meas": 168134
+    },
+    {
+        "id": 203565226,
+        "is_moving": 1,
+        "velocity": 11.915876,
+        "type": 1,
+        "heading": 1.11129,
+        "time_meas": 168134
+    },
+    {
+        "id": 204915842,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": 1.7040015,
+        "time_meas": 168134
+    },
+    {
+        "id": 204649308,
+        "is_moving": 1,
+        "velocity": 3.9031942,
+        "type": 1,
+        "heading": -1.9867485,
+        "time_meas": 168134
+    },
+    {
+        "id": 204477983,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.2163692,
+        "time_meas": 168134
+    },
+    {
+        "id": 207725078,
+        "is_moving": 1,
+        "velocity": 11.616953,
+        "type": 1,
+        "heading": 1.2698205,
+        "time_meas": 168134
+    },
+    {
+        "id": 203762946,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5942228,
+        "time_meas": 168134
+    },
+    {
+        "id": 207944240,
+        "is_moving": 1,
+        "velocity": 3.8409913,
+        "type": 10,
+        "heading": -0.21079424,
+        "time_meas": 168134
+    },
+    {
+        "id": 204061696,
+        "is_moving": 1,
+        "velocity": 13.025687,
+        "type": 1,
+        "heading": -0.5540421,
+        "time_meas": 168134
+    },
+    {
+        "id": 204340877,
+        "is_moving": 1,
+        "velocity": 0.17159376,
+        "type": 2,
+        "heading": -0.28737724,
+        "time_meas": 168134
+    },
+    {
+        "id": 204968573,
+        "is_moving": 1,
+        "velocity": 4.113978,
+        "type": 3,
+        "heading": -0.4122145,
+        "time_meas": 168134
+    },
+    {
+        "id": 210210249,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.55153114,
+        "time_meas": 168134
+    },
+    {
+        "id": 207463595,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5879776,
+        "time_meas": 168134
+    },
+    {
+        "id": 209288911,
+        "is_moving": 1,
+        "velocity": 10.775099,
+        "type": 3,
+        "heading": -0.54893935,
+        "time_meas": 168134
+    },
+    {
+        "id": 203686293,
+        "is_moving": 1,
+        "velocity": 5.303062,
+        "type": 3,
+        "heading": -0.4768806,
+        "time_meas": 168134
+    },
+    {
+        "id": 211005104,
+        "is_moving": 1,
+        "velocity": 2.1799326,
+        "type": 3,
+        "heading": -0.48920304,
+        "time_meas": 168134
+    },
+    {
+        "id": 209730100,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0,
+        "time_meas": 168134
+    },
+    {
+        "id": 206450777,
+        "is_moving": 1,
+        "velocity": 7.13246,
+        "type": 1,
+        "heading": -0.5576955,
+        "time_meas": 168134
+    },
+    {
+        "id": 208548975,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -0.041244015,
+        "time_meas": 168134
+    },
+    {
+        "id": 204481571,
+        "is_moving": 1,
+        "velocity": 11.617462,
+        "type": 1,
+        "heading": 2.6277554,
+        "time_meas": 168134
+    },
+    {
+        "id": 206279847,
+        "is_moving": 1,
+        "velocity": 7.5368123,
+        "type": 1,
+        "heading": -0.57384694,
+        "time_meas": 168134
+    },
+    {
+        "id": 206289329,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.726642,
+        "time_meas": 168134
+    },
+    {
+        "id": 193268,
+        "is_moving": 0,
+        "velocity": 1.5671767,
+        "type": -1,
+        "heading": 0.6106651,
+        "time_meas": 168134
+    },
+    {
+        "id": 206224879,
+        "is_moving": 1,
+        "velocity": 8.31886,
+        "type": 1,
+        "heading": 1.124111,
+        "time_meas": 168134
+    },
+    {
+        "id": 206418319,
+        "is_moving": 1,
+        "velocity": 6.715042,
+        "type": 1,
+        "heading": 2.6129212,
+        "time_meas": 168134
+    },
+    {
+        "id": 209572425,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0,
+        "time_meas": 168134
+    },
+    {
+        "id": 201262688,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.015903,
+        "time_meas": 168134
+    },
+    {
+        "id": 205718923,
+        "is_moving": 1,
+        "velocity": 4.1969132,
+        "type": 3,
+        "heading": 2.5589304,
+        "time_meas": 168134
+    },
+    {
+        "id": 209481721,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5927155,
+        "time_meas": 168134
+    },
+    {
+        "id": 210870487,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": -0.17249416,
+        "time_meas": 168134
+    },
+    {
+        "id": 205272098,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5677586,
+        "time_meas": 168134
+    },
+    {
+        "id": 206404844,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.39517266,
+        "time_meas": 168134
+    },
+    {
+        "id": 209895925,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.51110363,
+        "time_meas": 168134
+    },
+    {
+        "id": 205613353,
+        "is_moving": 1,
+        "velocity": 12.868939,
+        "type": 1,
+        "heading": 2.5538354,
+        "time_meas": 168134
+    },
+    {
+        "id": 209281883,
+        "is_moving": 1,
+        "velocity": 1.2205933,
+        "type": 2,
+        "heading": -0.84892046,
+        "time_meas": 168134
+    },
+    {
+        "id": 210172154,
+        "is_moving": 1,
+        "velocity": 0.51488614,
+        "type": 1,
+        "heading": -1.9549551,
+        "time_meas": 168134
+    },
+    {
+        "id": 209986164,
+        "is_moving": 1,
+        "velocity": 1.1835815,
+        "type": 3,
+        "heading": 1.2938702,
+        "time_meas": 168134
+    },
+    {
+        "id": 203347094,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0,
+        "time_meas": 168134
+    },
+    {
+        "id": 203657460,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0,
+        "time_meas": 168134
+    },
+    {
+        "id": 205455571,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5489388,
+        "time_meas": 168134
+    },
+    {
+        "id": 204499401,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9803758,
+        "time_meas": 168134
+    },
+    {
+        "id": 203544109,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -2.065805,
+        "time_meas": 168134
+    },
+    {
+        "id": 208954648,
+        "is_moving": 1,
+        "velocity": 11.04938,
+        "type": 1,
+        "heading": 2.781014,
+        "time_meas": 168134
+    },
+    {
+        "id": 205895007,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": -3.6584794e-8,
+        "time_meas": 168134
+    },
+    {
+        "id": 207487714,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.7809615,
+        "time_meas": 168134
+    },
+    {
+        "id": 203487437,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 10,
+        "heading": 2.565436,
+        "time_meas": 168134
+    },
+    {
+        "id": 58066623,
+        "is_moving": 0,
+        "velocity": 0.4666798,
+        "type": -1,
+        "heading": 2.5286415,
+        "time_meas": 168134
+    },
+    {
+        "id": 193793794,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.2426963,
+        "time_meas": 168134
+    },
+    {
+        "id": 202936290,
+        "is_moving": 1,
+        "velocity": 7.810178,
+        "type": 3,
+        "heading": -0.5656412,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252746,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.137153,
+        "time_meas": 168134
+    },
+    {
+        "id": 209095089,
+        "is_moving": 1,
+        "velocity": 2.1085525,
+        "type": 1,
+        "heading": 0.56435335,
+        "time_meas": 168134
+    },
+    {
+        "id": 210709400,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.54938734,
+        "time_meas": 168134
+    },
+    {
+        "id": 205806472,
+        "is_moving": 1,
+        "velocity": 11.79224,
+        "type": 1,
+        "heading": -1.9698321,
+        "time_meas": 168134
+    },
+    {
+        "id": 209263679,
+        "is_moving": 1,
+        "velocity": 1.4661779,
+        "type": 2,
+        "heading": -0.63504,
+        "time_meas": 168134
+    },
+    {
+        "id": 58065222,
+        "is_moving": 0,
+        "velocity": 0.6319918,
+        "type": -1,
+        "heading": -3.128009,
+        "time_meas": 168134
+    },
+    {
+        "id": 209328723,
+        "is_moving": 1,
+        "velocity": 3.0438986,
+        "type": 3,
+        "heading": -0.53201926,
+        "time_meas": 168134
+    },
+    {
+        "id": 205300069,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1447756,
+        "time_meas": 168134
+    },
+    {
+        "id": 205296972,
+        "is_moving": 1,
+        "velocity": 10.698776,
+        "type": 1,
+        "heading": 2.5873003,
+        "time_meas": 168134
+    },
+    {
+        "id": 207670592,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.43085793,
+        "time_meas": 168134
+    },
+    {
+        "id": 205657325,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5694697,
+        "time_meas": 168134
+    },
+    {
+        "id": 209355441,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 4,
+        "heading": -0.5807961,
+        "time_meas": 168134
+    },
+    {
+        "id": 210524028,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.570099,
+        "time_meas": 168134
+    },
+    {
+        "id": 205562955,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.58464575,
+        "time_meas": 168134
+    },
+    {
+        "id": 205547664,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 0.98556525,
+        "time_meas": 168134
+    },
+    {
+        "id": 210660856,
+        "is_moving": 1,
+        "velocity": 5.0378547,
+        "type": 1,
+        "heading": -1.0286424,
+        "time_meas": 168134
+    },
+    {
+        "id": 203670222,
+        "is_moving": 1,
+        "velocity": 5.87543,
+        "type": 1,
+        "heading": 0.06027198,
+        "time_meas": 168134
+    },
+    {
+        "id": 209173412,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9568216,
+        "time_meas": 168134
+    },
+    {
+        "id": 205033589,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -0.8651646,
+        "time_meas": 168134
+    },
+    {
+        "id": 208510015,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1367383,
+        "time_meas": 168134
+    },
+    {
+        "id": 205311062,
+        "is_moving": 1,
+        "velocity": 1.1171737,
+        "type": 2,
+        "heading": 2.5511656,
+        "time_meas": 168134
+    },
+    {
+        "id": 209149742,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.6065727,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252735,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.3648765,
+        "time_meas": 168134
+    },
+    {
+        "id": 205604077,
+        "is_moving": 1,
+        "velocity": 1.4601182,
+        "type": 2,
+        "heading": 0.18593675,
+        "time_meas": 168134
+    },
+    {
+        "id": 210534184,
+        "is_moving": 1,
+        "velocity": 8.120141,
+        "type": 1,
+        "heading": 2.5110903,
+        "time_meas": 168134
+    },
+    {
+        "id": 207916921,
+        "is_moving": 1,
+        "velocity": 1.5296131,
+        "type": 2,
+        "heading": -0.50934637,
+        "time_meas": 168134
+    },
+    {
+        "id": 210138840,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.58379805,
+        "time_meas": 168134
+    },
+    {
+        "id": 210927325,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5690284,
+        "time_meas": 168134
+    },
+    {
+        "id": 208393667,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.95223486,
+        "time_meas": 168134
+    },
+    {
+        "id": 211474896,
+        "is_moving": 1,
+        "velocity": 3.7720404,
+        "type": 3,
+        "heading": 2.6693394,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252740,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1366072,
+        "time_meas": 168134
+    },
+    {
+        "id": 204816274,
+        "is_moving": 1,
+        "velocity": 13.168459,
+        "type": 1,
+        "heading": -0.5108518,
+        "time_meas": 168134
+    },
+    {
+        "id": 203763017,
+        "is_moving": 1,
+        "velocity": 13.109476,
+        "type": 1,
+        "heading": -0.58690226,
+        "time_meas": 168134
+    },
+    {
+        "id": 207805785,
+        "is_moving": 1,
+        "velocity": 7.297267,
+        "type": 3,
+        "heading": -1.861574,
+        "time_meas": 168134
+    },
+    {
+        "id": 204051414,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.43294713,
+        "time_meas": 168134
+    },
+    {
+        "id": 204456385,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9881654,
+        "time_meas": 168134
+    },
+    {
+        "id": 209733420,
+        "is_moving": 1,
+        "velocity": 1.165461,
+        "type": 2,
+        "heading": 2.7552514,
+        "time_meas": 168134
+    },
+    {
+        "id": 204601778,
+        "is_moving": 1,
+        "velocity": 9.169489,
+        "type": 1,
+        "heading": 2.6260064,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252748,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.34385583,
+        "time_meas": 168134
+    },
+    {
+        "id": 211041864,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 5.815191e-8,
+        "time_meas": 168134
+    },
+    {
+        "id": 206449544,
+        "is_moving": 1,
+        "velocity": 9.670708,
+        "type": 3,
+        "heading": 1.2550154,
+        "time_meas": 168134
+    },
+    {
+        "id": 205588016,
+        "is_moving": 1,
+        "velocity": 12.641055,
+        "type": 1,
+        "heading": -0.6082153,
+        "time_meas": 168134
+    },
+    {
+        "id": 205555076,
+        "is_moving": 1,
+        "velocity": 6.9327493,
+        "type": 1,
+        "heading": 2.5586586,
+        "time_meas": 168134
+    },
+    {
+        "id": 206429751,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.5722903,
+        "time_meas": 168134
+    },
+    {
+        "id": 203815855,
+        "is_moving": 1,
+        "velocity": 9.537991,
+        "type": 1,
+        "heading": -0.38961273,
+        "time_meas": 168134
+    },
+    {
+        "id": 206401664,
+        "is_moving": 1,
+        "velocity": 5.379029,
+        "type": 3,
+        "heading": 2.5504496,
+        "time_meas": 168134
+    },
+    {
+        "id": 950692,
+        "is_moving": 0,
+        "velocity": 4.9138017,
+        "type": -1,
+        "heading": -1.9641647,
+        "time_meas": 168134
+    },
+    {
+        "id": 210688101,
+        "is_moving": 1,
+        "velocity": 3.5782127,
+        "type": 3,
+        "heading": -2.122727,
+        "time_meas": 168134
+    },
+    {
+        "id": 203349404,
+        "is_moving": 1,
+        "velocity": 1.2533258,
+        "type": 1,
+        "heading": 2.941825,
+        "time_meas": 168134
+    },
+    {
+        "id": 210579478,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0,
+        "time_meas": 168134
+    },
+    {
+        "id": 205295931,
+        "is_moving": 1,
+        "velocity": 7.6228905,
+        "type": 1,
+        "heading": -2.2338352,
+        "time_meas": 168134
+    },
+    {
+        "id": 203822389,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.595795,
+        "time_meas": 168134
+    },
+    {
+        "id": 203573613,
+        "is_moving": 1,
+        "velocity": 3.8411338,
+        "type": 1,
+        "heading": 2.5813768,
+        "time_meas": 168134
+    },
+    {
+        "id": 205838147,
+        "is_moving": 1,
+        "velocity": 2.3873098,
+        "type": 4,
+        "heading": 1.2708834,
+        "time_meas": 168134
+    },
+    {
+        "id": 208534127,
+        "is_moving": 1,
+        "velocity": 1.6809865,
+        "type": 2,
+        "heading": -1.3184093,
+        "time_meas": 168134
+    },
+    {
+        "id": 210682261,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -0.44933584,
+        "time_meas": 168134
+    },
+    {
+        "id": 207564903,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.37278315,
+        "time_meas": 168134
+    },
+    {
+        "id": 209535660,
+        "is_moving": 1,
+        "velocity": 4.684987,
+        "type": 1,
+        "heading": 2.6083097,
+        "time_meas": 168134
+    },
+    {
+        "id": 203941206,
+        "is_moving": 1,
+        "velocity": 4.8488116,
+        "type": 1,
+        "heading": 2.1150866,
+        "time_meas": 168134
+    },
+    {
+        "id": 211738937,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5791826,
+        "time_meas": 168134
+    },
+    {
+        "id": 205678830,
+        "is_moving": 1,
+        "velocity": 3.1965325,
+        "type": 3,
+        "heading": 2.7022321,
+        "time_meas": 168134
+    },
+    {
+        "id": 28626897,
+        "is_moving": 0,
+        "velocity": 1.125036,
+        "type": -1,
+        "heading": -1.3916225,
+        "time_meas": 168134
+    },
+    {
+        "id": 209324296,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5907366,
+        "time_meas": 168134
+    },
+    {
+        "id": 209645735,
+        "is_moving": 1,
+        "velocity": 4.27052,
+        "type": 3,
+        "heading": 2.5877867,
+        "time_meas": 168134
+    },
+    {
+        "id": 202904969,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.0521832,
+        "time_meas": 168134
+    },
+    {
+        "id": 205112288,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 0.3134767,
+        "time_meas": 168134
+    },
+    {
+        "id": 210736560,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.250299,
+        "time_meas": 168134
+    },
+    {
+        "id": 206164007,
+        "is_moving": 1,
+        "velocity": 2.3530586,
+        "type": 1,
+        "heading": -0.15970823,
+        "time_meas": 168134
+    },
+    {
+        "id": 207796000,
+        "is_moving": 1,
+        "velocity": 3.0711775,
+        "type": 2,
+        "heading": -0.6551128,
+        "time_meas": 168134
+    },
+    {
+        "id": 204172033,
+        "is_moving": 1,
+        "velocity": 14.268868,
+        "type": 1,
+        "heading": 2.5616443,
+        "time_meas": 168134
+    },
+    {
+        "id": 210530934,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -2.0319967,
+        "time_meas": 168134
+    },
+    {
+        "id": 204880725,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0,
+        "time_meas": 168134
+    },
+    {
+        "id": 203156188,
+        "is_moving": 1,
+        "velocity": 10.788875,
+        "type": 1,
+        "heading": 2.7520926,
+        "time_meas": 168134
+    },
+    {
+        "id": 205528886,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.2713592,
+        "time_meas": 168134
+    },
+    {
+        "id": 207310838,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.8349243,
+        "time_meas": 168134
+    },
+    {
+        "id": 208564363,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0,
+        "time_meas": 168134
+    },
+    {
+        "id": 204530169,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": 0.12472502,
+        "time_meas": 168134
+    },
+    {
+        "id": 201915635,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.4025133,
+        "time_meas": 168134
+    },
+    {
+        "id": 205708124,
+        "is_moving": 1,
+        "velocity": 1.942349,
+        "type": 1,
+        "heading": 1.2920696,
+        "time_meas": 168134
+    },
+    {
+        "id": 207894255,
+        "is_moving": 1,
+        "velocity": 1.426583,
+        "type": 1,
+        "heading": -0.37572008,
+        "time_meas": 168134
+    },
+    {
+        "id": 203315642,
+        "is_moving": 1,
+        "velocity": 10.14622,
+        "type": 1,
+        "heading": -0.56592494,
+        "time_meas": 168134
+    },
+    {
+        "id": 202587671,
+        "is_moving": 1,
+        "velocity": 15.680495,
+        "type": 1,
+        "heading": 2.5645788,
+        "time_meas": 168134
+    },
+    {
+        "id": 204565671,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.2615422,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252738,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1366072,
+        "time_meas": 168134
+    },
+    {
+        "id": 205251798,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.0850184,
+        "time_meas": 168134
+    },
+    {
+        "id": 211576488,
+        "is_moving": 1,
+        "velocity": 6.266007,
+        "type": 3,
+        "heading": -0.7266828,
+        "time_meas": 168134
+    },
+    {
+        "id": 208138104,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5662727,
+        "time_meas": 168134
+    },
+    {
+        "id": 206425965,
+        "is_moving": 1,
+        "velocity": 3.779215,
+        "type": 3,
+        "heading": -0.4556785,
+        "time_meas": 168134
+    },
+    {
+        "id": 202770834,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.06935014,
+        "time_meas": 168134
+    },
+    {
+        "id": 205310554,
+        "is_moving": 1,
+        "velocity": 16.878273,
+        "type": 1,
+        "heading": 2.5659568,
+        "time_meas": 168134
+    },
+    {
+        "id": 210754538,
+        "is_moving": 1,
+        "velocity": 6.8900313,
+        "type": 1,
+        "heading": -2.0488307,
+        "time_meas": 168134
+    },
+    {
+        "id": 204731228,
+        "is_moving": 1,
+        "velocity": 5.7804217,
+        "type": 3,
+        "heading": -0.44095024,
+        "time_meas": 168134
+    },
+    {
+        "id": 211784613,
+        "is_moving": 1,
+        "velocity": 10.162288,
+        "type": 3,
+        "heading": -0.5747776,
+        "time_meas": 168134
+    },
+    {
+        "id": 207147630,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9568369,
+        "time_meas": 168134
+    },
+    {
+        "id": 209289082,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1600473,
+        "time_meas": 168134
+    },
+    {
+        "id": 206196833,
+        "is_moving": 1,
+        "velocity": 13.113786,
+        "type": 1,
+        "heading": 2.7400653,
+        "time_meas": 168134
+    },
+    {
+        "id": 204667350,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.2732071,
+        "time_meas": 168134
+    },
+    {
+        "id": 211769480,
+        "is_moving": 1,
+        "velocity": 2.4716165,
+        "type": 1,
+        "heading": 2.5526497,
+        "time_meas": 168134
+    },
+    {
+        "id": 209656780,
+        "is_moving": 1,
+        "velocity": 1.2121673,
+        "type": 2,
+        "heading": -0.40388972,
+        "time_meas": 168134
+    },
+    {
+        "id": 209641289,
+        "is_moving": 1,
+        "velocity": 8.001835,
+        "type": 1,
+        "heading": 2.7565353,
+        "time_meas": 168134
+    },
+    {
+        "id": 208836033,
+        "is_moving": 1,
+        "velocity": 4.0623584,
+        "type": 1,
+        "heading": 2.596634,
+        "time_meas": 168134
+    },
+    {
+        "id": 209687266,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.6686104,
+        "time_meas": 168134
+    },
+    {
+        "id": 193323,
+        "is_moving": 0,
+        "velocity": 0.9779099,
+        "type": -1,
+        "heading": -0.41547912,
+        "time_meas": 168134
+    },
+    {
+        "id": 203867142,
+        "is_moving": 1,
+        "velocity": 14.137879,
+        "type": 1,
+        "heading": 2.5738091,
+        "time_meas": 168134
+    },
+    {
+        "id": 206424097,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5686722,
+        "time_meas": 168134
+    },
+    {
+        "id": 205919813,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1852686,
+        "time_meas": 168134
+    },
+    {
+        "id": 203995204,
+        "is_moving": 1,
+        "velocity": 9.0877495,
+        "type": 1,
+        "heading": -0.35852057,
+        "time_meas": 168134
+    },
+    {
+        "id": 211572224,
+        "is_moving": 1,
+        "velocity": 7.045199,
+        "type": 1,
+        "heading": -0.57147384,
+        "time_meas": 168134
+    },
+    {
+        "id": 210005116,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.4415474,
+        "time_meas": 168134
+    },
+    {
+        "id": 207748933,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -1.9560692,
+        "time_meas": 168134
+    },
+    {
+        "id": 203386364,
+        "is_moving": 1,
+        "velocity": 0.7540728,
+        "type": 1,
+        "heading": -0.5418644,
+        "time_meas": 168134
+    },
+    {
+        "id": 205595559,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.2114192,
+        "time_meas": 168134
+    },
+    {
+        "id": 209769701,
+        "is_moving": 1,
+        "velocity": 6.5464654,
+        "type": 1,
+        "heading": 2.5964098,
+        "time_meas": 168134
+    },
+    {
+        "id": 207364640,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.091738,
+        "time_meas": 168134
+    },
+    {
+        "id": 204628657,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.40043655,
+        "time_meas": 168134
+    },
+    {
+        "id": 203885359,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.38683257,
+        "time_meas": 168134
+    },
+    {
+        "id": 207720932,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -1.6834787,
+        "time_meas": 168134
+    },
+    {
+        "id": 203332107,
+        "is_moving": 1,
+        "velocity": 6.1982684,
+        "type": 1,
+        "heading": -1.5774852,
+        "time_meas": 168134
+    },
+    {
+        "id": 203938914,
+        "is_moving": 1,
+        "velocity": 16.42383,
+        "type": 1,
+        "heading": 1.2003678,
+        "time_meas": 168134
+    },
+    {
+        "id": 205352100,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9579383,
+        "time_meas": 168134
+    },
+    {
+        "id": 208486435,
+        "is_moving": 1,
+        "velocity": 1.2337589,
+        "type": 2,
+        "heading": -2.744366,
+        "time_meas": 168134
+    },
+    {
+        "id": 204964228,
+        "is_moving": 1,
+        "velocity": 10.475302,
+        "type": 1,
+        "heading": -0.57103777,
+        "time_meas": 168134
+    },
+    {
+        "id": 204726610,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": 2.6870167,
+        "time_meas": 168134
+    },
+    {
+        "id": 205569679,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5773053,
+        "time_meas": 168134
+    },
+    {
+        "id": 210701158,
+        "is_moving": 1,
+        "velocity": 8.520411,
+        "type": 3,
+        "heading": 2.7397912,
+        "time_meas": 168134
+    },
+    {
+        "id": 204328554,
+        "is_moving": 1,
+        "velocity": 1.7334551,
+        "type": 2,
+        "heading": -2.35528,
+        "time_meas": 168134
+    },
+    {
+        "id": 204565752,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9568216,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252729,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1366072,
+        "time_meas": 168134
+    },
+    {
+        "id": 207770880,
+        "is_moving": 1,
+        "velocity": 2.5784194,
+        "type": 1,
+        "heading": 2.5514324,
+        "time_meas": 168134
+    },
+    {
+        "id": 209072338,
+        "is_moving": 1,
+        "velocity": 9.815859,
+        "type": 1,
+        "heading": 1.2463555,
+        "time_meas": 168134
+    },
+    {
+        "id": 211469704,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": -5.7554354e-7,
+        "time_meas": 168134
+    },
+    {
+        "id": 205546891,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -1.7279646,
+        "time_meas": 168134
+    },
+    {
+        "id": 203905066,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 6,
+        "heading": 2.572207,
+        "time_meas": 168134
+    },
+    {
+        "id": 210566023,
+        "is_moving": 1,
+        "velocity": 0.7978883,
+        "type": 2,
+        "heading": 2.7051268,
+        "time_meas": 168134
+    },
+    {
+        "id": 205575458,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5524764,
+        "time_meas": 168134
+    },
+    {
+        "id": 202759654,
+        "is_moving": 1,
+        "velocity": 10.051154,
+        "type": 1,
+        "heading": -0.5102907,
+        "time_meas": 168134
+    },
+    {
+        "id": 208306813,
+        "is_moving": 1,
+        "velocity": 1.4292787,
+        "type": 1,
+        "heading": -0.57535374,
+        "time_meas": 168134
+    },
+    {
+        "id": 198467718,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1047317,
+        "time_meas": 168134
+    },
+    {
+        "id": 211488373,
+        "is_moving": 1,
+        "velocity": 5.375725,
+        "type": 1,
+        "heading": 2.0645204,
+        "time_meas": 168134
+    },
+    {
+        "id": 207722520,
+        "is_moving": 1,
+        "velocity": 1.4007087,
+        "type": 2,
+        "heading": -2.0604866,
+        "time_meas": 168134
+    },
+    {
+        "id": 211637395,
+        "is_moving": 1,
+        "velocity": 11.157382,
+        "type": 1,
+        "heading": 0.8788985,
+        "time_meas": 168134
+    },
+    {
+        "id": 206447650,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5778656,
+        "time_meas": 168134
+    },
+    {
+        "id": 203866435,
+        "is_moving": 1,
+        "velocity": 3.1608133,
+        "type": 2,
+        "heading": -0.45821837,
+        "time_meas": 168134
+    },
+    {
+        "id": 211606045,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5656652,
+        "time_meas": 168134
+    },
+    {
+        "id": 202495060,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9453844,
+        "time_meas": 168134
+    },
+    {
+        "id": 203661111,
+        "is_moving": 1,
+        "velocity": 9.226447,
+        "type": 3,
+        "heading": 2.6985848,
+        "time_meas": 168134
+    },
+    {
+        "id": 211297350,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5370424,
+        "time_meas": 168134
+    },
+    {
+        "id": 205404727,
+        "is_moving": 1,
+        "velocity": 2.5422251,
+        "type": 3,
+        "heading": 2.5304408,
+        "time_meas": 168134
+    },
+    {
+        "id": 210783311,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.0039861,
+        "time_meas": 168134
+    },
+    {
+        "id": 205122311,
+        "is_moving": 1,
+        "velocity": 2.002363,
+        "type": 1,
+        "heading": -2.0714679,
+        "time_meas": 168134
+    },
+    {
+        "id": 206188147,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5554263,
+        "time_meas": 168134
+    },
+    {
+        "id": 206269614,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0,
+        "time_meas": 168134
+    },
+    {
+        "id": 205722524,
+        "is_moving": 1,
+        "velocity": 1.5202372,
+        "type": 3,
+        "heading": 2.566198,
+        "time_meas": 168134
+    },
+    {
+        "id": 210021791,
+        "is_moving": 1,
+        "velocity": 1.0817423,
+        "type": 1,
+        "heading": -2.2810159,
+        "time_meas": 168134
+    },
+    {
+        "id": 205398425,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.45455918,
+        "time_meas": 168134
+    },
+    {
+        "id": 204911545,
+        "is_moving": 1,
+        "velocity": 10.782709,
+        "type": 3,
+        "heading": 2.682118,
+        "time_meas": 168134
+    },
+    {
+        "id": 205270700,
+        "is_moving": 1,
+        "velocity": 5.0979567,
+        "type": 1,
+        "heading": 2.5232236,
+        "time_meas": 168134
+    },
+    {
+        "id": 211405403,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 0.9734898,
+        "time_meas": 168134
+    },
+    {
+        "id": 206668673,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.0032382,
+        "time_meas": 168134
+    },
+    {
+        "id": 203751704,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.2565951,
+        "time_meas": 168134
+    },
+    {
+        "id": 204030590,
+        "is_moving": 1,
+        "velocity": 8.112006,
+        "type": 3,
+        "heading": -0.5683064,
+        "time_meas": 168134
+    },
+    {
+        "id": 210592330,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.47976482,
+        "time_meas": 168134
+    },
+    {
+        "id": 204116015,
+        "is_moving": 1,
+        "velocity": 0.8536793,
+        "type": 1,
+        "heading": 2.7570295,
+        "time_meas": 168134
+    },
+    {
+        "id": 210466498,
+        "is_moving": 1,
+        "velocity": 2.4672823,
+        "type": 1,
+        "heading": 0.03225975,
+        "time_meas": 168134
+    },
+    {
+        "id": 204830057,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.313742,
+        "time_meas": 168134
+    },
+    {
+        "id": 205528462,
+        "is_moving": 1,
+        "velocity": 9.5686455,
+        "type": 1,
+        "heading": -0.5503036,
+        "time_meas": 168134
+    },
+    {
+        "id": 209860386,
+        "is_moving": 1,
+        "velocity": 2.5501385,
+        "type": 1,
+        "heading": -0.57098395,
+        "time_meas": 168134
+    },
+    {
+        "id": 209619622,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.523242,
+        "time_meas": 168134
+    },
+    {
+        "id": 209710545,
+        "is_moving": 1,
+        "velocity": 5.920724,
+        "type": 3,
+        "heading": -0.38311753,
+        "time_meas": 168134
+    },
+    {
+        "id": 210713591,
+        "is_moving": 1,
+        "velocity": 1.3818911,
+        "type": 2,
+        "heading": -2.0534074,
+        "time_meas": 168134
+    },
+    {
+        "id": 209179983,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5794468,
+        "time_meas": 168134
+    },
+    {
+        "id": 209031108,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -2.2150602,
+        "time_meas": 168134
+    },
+    {
+        "id": 209488323,
+        "is_moving": 1,
+        "velocity": 15.858258,
+        "type": 1,
+        "heading": -0.5681532,
+        "time_meas": 168134
+    },
+    {
+        "id": 210870489,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.69450885,
+        "time_meas": 168134
+    },
+    {
+        "id": 211775074,
+        "is_moving": 1,
+        "velocity": 1.4823061,
+        "type": 2,
+        "heading": -0.5928847,
+        "time_meas": 168134
+    },
+    {
+        "id": 210297622,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.252359,
+        "time_meas": 168134
+    },
+    {
+        "id": 210072931,
+        "is_moving": 1,
+        "velocity": 0.9545341,
+        "type": 2,
+        "heading": 0.9149931,
+        "time_meas": 168134
+    },
+    {
+        "id": 205992368,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -2.9126818,
+        "time_meas": 168134
+    },
+    {
+        "id": 205675456,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9568553,
+        "time_meas": 168134
+    },
+    {
+        "id": 207353033,
+        "is_moving": 1,
+        "velocity": 4.734762,
+        "type": 1,
+        "heading": -0.5833634,
+        "time_meas": 168134
+    },
+    {
+        "id": 202862500,
+        "is_moving": 1,
+        "velocity": 1.6367112,
+        "type": 2,
+        "heading": -0.74474806,
+        "time_meas": 168134
+    },
+    {
+        "id": 205992355,
+        "is_moving": 1,
+        "velocity": 6.920231,
+        "type": 1,
+        "heading": 2.5811434,
+        "time_meas": 168134
+    },
+    {
+        "id": 209468632,
+        "is_moving": 1,
+        "velocity": 14.994481,
+        "type": 1,
+        "heading": -0.5815681,
+        "time_meas": 168134
+    },
+    {
+        "id": 207883915,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.6208384,
+        "time_meas": 168134
+    },
+    {
+        "id": 58044673,
+        "is_moving": 0,
+        "velocity": 2.838394,
+        "type": -1,
+        "heading": -0.3050521,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252751,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.137153,
+        "time_meas": 168134
+    },
+    {
+        "id": 205655409,
+        "is_moving": 1,
+        "velocity": 6.32557,
+        "type": 3,
+        "heading": 2.5891387,
+        "time_meas": 168134
+    },
+    {
+        "id": 207785041,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": -0.0000040679092,
+        "time_meas": 168134
+    },
+    {
+        "id": 205330309,
+        "is_moving": 1,
+        "velocity": 2.7070296,
+        "type": 1,
+        "heading": -0.5575202,
+        "time_meas": 168134
+    },
+    {
+        "id": 210166256,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 6,
+        "heading": -0.5836268,
+        "time_meas": 168134
+    },
+    {
+        "id": 204952884,
+        "is_moving": 1,
+        "velocity": 6.1065836,
+        "type": 1,
+        "heading": -0.39674917,
+        "time_meas": 168134
+    },
+    {
+        "id": 209968462,
+        "is_moving": 1,
+        "velocity": 4.45078,
+        "type": 3,
+        "heading": 2.5547833,
+        "time_meas": 168134
+    },
+    {
+        "id": 209917852,
+        "is_moving": 1,
+        "velocity": 3.9807072,
+        "type": 1,
+        "heading": 1.1623986,
+        "time_meas": 168134
+    },
+    {
+        "id": 209656802,
+        "is_moving": 1,
+        "velocity": 2.6390731,
+        "type": 3,
+        "heading": -0.3942451,
+        "time_meas": 168134
+    },
+    {
+        "id": 208253497,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5993686,
+        "time_meas": 168134
+    },
+    {
+        "id": 191890199,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -0.5318704,
+        "time_meas": 168134
+    },
+    {
+        "id": 204847294,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.1461914,
+        "time_meas": 168134
+    },
+    {
+        "id": 208063524,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1954298,
+        "time_meas": 168134
+    },
+    {
+        "id": 203909405,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.6107254,
+        "time_meas": 168134
+    },
+    {
+        "id": 210420147,
+        "is_moving": 1,
+        "velocity": 13.078472,
+        "type": 1,
+        "heading": 2.751292,
+        "time_meas": 168134
+    },
+    {
+        "id": 211330052,
+        "is_moving": 1,
+        "velocity": 3.6875508,
+        "type": 1,
+        "heading": -0.54766434,
+        "time_meas": 168134
+    },
+    {
+        "id": 205332774,
+        "is_moving": 1,
+        "velocity": 1.5583843,
+        "type": 2,
+        "heading": 2.2077708,
+        "time_meas": 168134
+    },
+    {
+        "id": 205309306,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.563392,
+        "time_meas": 168134
+    },
+    {
+        "id": 191253250,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.137153,
+        "time_meas": 168134
+    },
+    {
+        "id": 969669,
+        "is_moving": 0,
+        "velocity": 0.9242684,
+        "type": -1,
+        "heading": -0.41111153,
+        "time_meas": 168134
+    },
+    {
+        "id": 206277142,
+        "is_moving": 1,
+        "velocity": 5.8884897,
+        "type": 3,
+        "heading": 2.5560596,
+        "time_meas": 168134
+    },
+    {
+        "id": 191252714,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1704209,
+        "time_meas": 168134
+    },
+    {
+        "id": 210670215,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": 2.6305025,
+        "time_meas": 168134
+    },
+    {
+        "id": 209702153,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 0.9859498,
+        "time_meas": 168134
+    },
+    {
+        "id": 207883928,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.133677,
+        "time_meas": 168134
+    },
+    {
+        "id": 207348467,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.564411,
+        "time_meas": 168134
+    },
+    {
+        "id": 88542241,
+        "is_moving": 0,
+        "velocity": 1.3689647,
+        "type": -1,
+        "heading": 0.8266602,
+        "time_meas": 168134
+    },
+    {
+        "id": 203891483,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.5516779,
+        "time_meas": 168134
+    },
+    {
+        "id": 205294364,
+        "is_moving": 1,
+        "velocity": 2.5351279,
+        "type": 3,
+        "heading": 0.3326522,
+        "time_meas": 168134
+    },
+    {
+        "id": 206537735,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1363246,
+        "time_meas": 168134
+    },
+    {
+        "id": 211176585,
+        "is_moving": 1,
+        "velocity": 7.1837,
+        "type": 1,
+        "heading": -0.9761728,
+        "time_meas": 168134
+    },
+    {
+        "id": 204788947,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 0.96284723,
+        "time_meas": 168134
+    },
+    {
+        "id": 211698329,
+        "is_moving": 1,
+        "velocity": 6.720179,
+        "type": 1,
+        "heading": -1.7049702,
+        "time_meas": 168134
+    },
+    {
+        "id": 209273983,
+        "is_moving": 1,
+        "velocity": 3.3230383,
+        "type": 3,
+        "heading": 2.5639029,
+        "time_meas": 168134
+    },
+    {
+        "id": 211344875,
+        "is_moving": 1,
+        "velocity": 12.76433,
+        "type": 1,
+        "heading": -0.59778124,
+        "time_meas": 168134
+    },
+    {
+        "id": 203932881,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": 1.7336615,
+        "time_meas": 168134
+    },
+    {
+        "id": 207736271,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.4926626,
+        "time_meas": 168134
+    },
+    {
+        "id": 206113742,
+        "is_moving": 1,
+        "velocity": 12.674335,
+        "type": 1,
+        "heading": 1.2485884,
+        "time_meas": 168134
+    },
+    {
+        "id": 204904974,
+        "is_moving": 1,
+        "velocity": 1.4834393,
+        "type": 2,
+        "heading": -2.2937484,
+        "time_meas": 168134
+    },
+    {
+        "id": 203431962,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.42499563,
+        "time_meas": 168134
+    },
+    {
+        "id": 207883801,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.601201,
+        "time_meas": 168134
+    },
+    {
+        "id": 203848878,
+        "is_moving": 1,
+        "velocity": 6.3820086,
+        "type": 1,
+        "heading": 2.7272747,
+        "time_meas": 168134
+    },
+    {
+        "id": 205177353,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5599341,
+        "time_meas": 168134
+    },
+    {
+        "id": 209354309,
+        "is_moving": 1,
+        "velocity": 4.066658,
+        "type": 3,
+        "heading": -2.8281083,
+        "time_meas": 168134
+    },
+    {
+        "id": 204916009,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -2.227361,
+        "time_meas": 168134
+    },
+    {
+        "id": 205252299,
+        "is_moving": 1,
+        "velocity": 9.495535,
+        "type": 1,
+        "heading": 2.5659506,
+        "time_meas": 168134
+    },
+    {
+        "id": 191253374,
+        "is_moving": 1,
+        "velocity": 9.716777,
+        "type": 1,
+        "heading": 2.7592063,
+        "time_meas": 168134
+    },
+    {
+        "id": 203599645,
+        "is_moving": 1,
+        "velocity": 1.3347651,
+        "type": 2,
+        "heading": -1.0539205,
+        "time_meas": 168134
+    },
+    {
+        "id": 203635887,
+        "is_moving": 1,
+        "velocity": 8.130666,
+        "type": 1,
+        "heading": -0.56177884,
+        "time_meas": 168134
+    },
+    {
+        "id": 207837914,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.567114,
+        "time_meas": 168134
+    },
+    {
+        "id": 208537287,
+        "is_moving": 1,
+        "velocity": 10.122392,
+        "type": 1,
+        "heading": -0.8951293,
+        "time_meas": 168134
+    },
+    {
+        "id": 202492483,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.2769032,
+        "time_meas": 168134
+    },
+    {
+        "id": 205530204,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.21991198,
+        "time_meas": 168134
+    },
+    {
+        "id": 206406154,
+        "is_moving": 1,
+        "velocity": 6.5786037,
+        "type": 3,
+        "heading": 2.7065604,
+        "time_meas": 168134
+    },
+    {
+        "id": 211746579,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": -1.2901117,
+        "time_meas": 168134
+    },
+    {
+        "id": 203979035,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5944347,
+        "time_meas": 168134
+    },
+    {
+        "id": 209298838,
+        "is_moving": 1,
+        "velocity": 1.1658602,
+        "type": 2,
+        "heading": 1.8794425,
+        "time_meas": 168134
+    },
+    {
+        "id": 209599263,
+        "is_moving": 1,
+        "velocity": 9.74579,
+        "type": 3,
+        "heading": 2.5782917,
+        "time_meas": 168134
+    },
+    {
+        "id": 210943147,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 6,
+        "heading": -0.5555867,
+        "time_meas": 168134
+    },
+    {
+        "id": 202747193,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5397636,
+        "time_meas": 168134
+    },
+    {
+        "id": 950967,
+        "is_moving": 0,
+        "velocity": 3.065732,
+        "type": -1,
+        "heading": -0.41931593,
+        "time_meas": 168134
+    },
+    {
+        "id": 205215744,
+        "is_moving": 1,
+        "velocity": 5.3749886,
+        "type": 1,
+        "heading": -0.3935844,
+        "time_meas": 168134
+    },
+    {
+        "id": 207931030,
+        "is_moving": 1,
+        "velocity": 1.3263488,
+        "type": 1,
+        "heading": -2.009591,
+        "time_meas": 168134
+    },
+    {
+        "id": 204057123,
+        "is_moving": 1,
+        "velocity": 5.172113,
+        "type": 1,
+        "heading": -1.7395037,
+        "time_meas": 168134
+    },
+    {
+        "id": 202898491,
+        "is_moving": 1,
+        "velocity": 1.5734717,
+        "type": 2,
+        "heading": -0.35450318,
+        "time_meas": 168134
+    },
+    {
+        "id": 202755268,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.2565951,
+        "time_meas": 168134
+    },
+    {
+        "id": 209432093,
+        "is_moving": 1,
+        "velocity": 5.847361,
+        "type": 1,
+        "heading": 1.2420917,
+        "time_meas": 168134
+    },
+    {
+        "id": 208350073,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5637226,
+        "time_meas": 168134
+    },
+    {
+        "id": 209976786,
+        "is_moving": 1,
+        "velocity": 1.4856464,
+        "type": 2,
+        "heading": 1.2769489,
+        "time_meas": 168134
+    },
+    {
+        "id": 203565271,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.5996354,
+        "time_meas": 168134
+    },
+    {
+        "id": 205485875,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.5742148,
+        "time_meas": 168134
+    },
+    {
+        "id": 211092270,
+        "is_moving": 1,
+        "velocity": 1.4163697,
+        "type": 2,
+        "heading": -2.0023355,
+        "time_meas": 168134
+    },
+    {
+        "id": 211019515,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": 0.000043877135,
+        "time_meas": 168134
+    },
+    {
+        "id": 205721937,
+        "is_moving": 1,
+        "velocity": 8.422458,
+        "type": 1,
+        "heading": -0.52496976,
+        "time_meas": 168134
+    },
+    {
+        "id": 203813984,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.7599847,
+        "time_meas": 168134
+    },
+    {
+        "id": 205259027,
+        "is_moving": 1,
+        "velocity": 1.9958918,
+        "type": 4,
+        "heading": 0.45344037,
+        "time_meas": 168134
+    },
+    {
+        "id": 205215812,
+        "is_moving": 1,
+        "velocity": 2.1251712,
+        "type": 1,
+        "heading": -0.54421246,
+        "time_meas": 168134
+    },
+    {
+        "id": 209597781,
+        "is_moving": 1,
+        "velocity": 1.5595205,
+        "type": 1,
+        "heading": -0.4211529,
+        "time_meas": 168134
+    },
+    {
+        "id": 210679911,
+        "is_moving": 1,
+        "velocity": 0.6680315,
+        "type": 2,
+        "heading": -2.151055,
+        "time_meas": 168134
+    },
+    {
+        "id": 205086550,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.2145114,
+        "time_meas": 168134
+    },
+    {
+        "id": 203987828,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.36934015,
+        "time_meas": 168134
+    },
+    {
+        "id": 204496315,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.9986627,
+        "time_meas": 168134
+    },
+    {
+        "id": 206191921,
+        "is_moving": 1,
+        "velocity": 3.0119503,
+        "type": 1,
+        "heading": -1.9530656,
+        "time_meas": 168134
+    },
+    {
+        "id": 209271968,
+        "is_moving": 1,
+        "velocity": 9.416484,
+        "type": 3,
+        "heading": 2.746902,
+        "time_meas": 168134
+    },
+    {
+        "id": 211346255,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 10,
+        "heading": 2.4136312,
+        "time_meas": 168134
+    },
+    {
+        "id": 210962854,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 2,
+        "heading": 1.3989692,
+        "time_meas": 168134
+    },
+    {
+        "id": 211091345,
+        "is_moving": 1,
+        "velocity": 1.5309025,
+        "type": 2,
+        "heading": 2.3677356,
+        "time_meas": 168134
+    },
+    {
+        "id": 208776234,
+        "is_moving": 1,
+        "velocity": 2.5456905,
+        "type": 1,
+        "heading": -2.0495672,
+        "time_meas": 168134
+    },
+    {
+        "id": 205147547,
+        "is_moving": 1,
+        "velocity": 7.204941,
+        "type": 1,
+        "heading": 0.92568177,
+        "time_meas": 168134
+    },
+    {
+        "id": 207668773,
+        "is_moving": 1,
+        "velocity": 3.7597184,
+        "type": 3,
+        "heading": 1.9698588,
+        "time_meas": 168134
+    },
+    {
+        "id": 192612777,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -1.990148,
+        "time_meas": 168134
+    },
+    {
+        "id": 205405484,
+        "is_moving": 1,
+        "velocity": 4.9014153,
+        "type": 1,
+        "heading": -1.9586082,
+        "time_meas": 168134
+    },
+    {
+        "id": 35463566,
+        "is_moving": 0,
+        "velocity": 0.06875004,
+        "type": -1,
+        "heading": -0.03265437,
+        "time_meas": 168134
+    },
+    {
+        "id": 209793977,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 2.598359,
+        "time_meas": 168134
+    },
+    {
+        "id": 205675197,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 3,
+        "heading": -0.43305185,
+        "time_meas": 168134
+    },
+    {
+        "id": 209581402,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 7,
+        "heading": -9.444534e-7,
+        "time_meas": 168134
+    },
+    {
+        "id": 205845966,
+        "is_moving": 1,
+        "velocity": 6.840452,
+        "type": 6,
+        "heading": 1.2609717,
+        "time_meas": 168134
+    },
+    {
+        "id": 209199327,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": -0.567667,
+        "time_meas": 168134
+    },
+    {
+        "id": 204939404,
+        "is_moving": 0,
+        "velocity": 0,
+        "type": 1,
+        "heading": 1.1872681,
+        "time_meas": 168134
+    },
+    {
+        "id": 207260372,
+        "is_moving": 1,
+        "velocity": 4.705731,
+        "type": 1,
+        "heading": -1.9810563,
+        "time_meas": 168134
+    },
+    {
+        "id": 210791489,
+        "is_moving": 1,
+        "velocity": 10.743553,
+        "type": 1,
+        "heading": 1.1130092,
+        "time_meas": 168134
+    }
+]
